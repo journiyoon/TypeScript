@@ -17,8 +17,6 @@ localStorage.getItem(<key>)
 localStorage.clearItem(<key>)
 localStorage.clear()
 ```
-
-<br>
 Documentation: https://developer.mozilla.org/en-US/docs/Web/API/Storage
 
 ## Geolocation API:
@@ -34,6 +32,4 @@ geolocation.watchPosition(success, error);
 geolocation.watchPosition(success, error, options);
 geolocation.clearWatch(id);
 ```
-
-<br>
 Documentation: https://developer.mozilla.org/en-US/docs/Web/API/Geolocation
