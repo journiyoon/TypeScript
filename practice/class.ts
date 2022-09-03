@@ -30,11 +30,6 @@ class Dict {
 
 class Word {
   constructor(public term: string, public def: string) {}
-  // update(term: string, def: string) {
-  //   if (this.term === term) {
-  //     this.def = def;
-  //   }
-  // }
 }
 
 const kimchi = new Word("kimchi", "한국 음식");
